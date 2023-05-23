@@ -1,0 +1,17 @@
+{
+	"name": "Pipeline",
+	"properties": {
+		"content": {
+			"query": "--Pipeline",
+			"metadata": {
+				"language": "sql"
+			},
+			"currentConnection": {
+				"databaseName": "master",
+				"poolName": "Built-in"
+			},
+			"resultLimit": 5000
+		},
+		"type": "SqlQuery"
+	}
+}
